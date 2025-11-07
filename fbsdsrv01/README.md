@@ -12,7 +12,7 @@ vi configure-zabbix-agent.sh
 vagrant up
 ```
 
-![fbsdsrv01 screen](../Images/fbsdsrv01-2025-11-07 084058.png)
+![fbsdsrv01 screen](../Images/fbsdsrv01-2025-11-07_084058.png)
 
 # Nápověda
 
